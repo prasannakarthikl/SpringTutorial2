@@ -1,0 +1,56 @@
+{
+    "id": "https://qwww.mysynchrony.com/",
+    "score": 50,
+    "pageStats": {
+        "htmlResponseBytes": "63329",
+        "textResponseBytes": "345372",
+        "cssResponseBytes": "553783",
+        "imageResponseBytes": "1173278",
+        "javascriptResponseBytes": "1761597",
+        "otherResponseBytes": "79731"
+    },
+    "formattedResults": {
+        "ruleResults": {
+            "AvoidLandingPageRedirects": {
+                "localizedRuleName": "Avoid landing page redirects",
+                "ruleImpact": 0
+            },
+            "EnableGzipCompression": {
+                "localizedRuleName": "Enable compression",
+                "ruleImpact": 0
+            },
+            "LeverageBrowserCaching": {
+                "localizedRuleName": "Leverage browser caching",
+                "ruleImpact": 30.31905092592594
+            }
+        }
+},
+    "MainResourceServerResponseTime": {
+        "localizedRuleName": "Reduce server response time",
+        "ruleImpact": 0
+},
+"MinifyCss": {
+    "localizedRuleName": "Minify CSS",
+    "ruleImpact": 0.28040000000000004
+},
+"MinifyHTML": {
+    "localizedRuleName": "Minify HTML",
+    "ruleImpact": 0.11710000000000001
+},
+"MinifyJavaScript": {
+    "localizedRuleName": "Minify JavaScript",
+    "ruleImpact": 10.093500000000002
+},
+"MinimizeRenderBlockingResources": {
+    "localizedRuleName": "Eliminate render-blocking JavaScript and CSS in above-the-fold content",
+    "ruleImpact": 8
+    },
+"OptimizeImages": {
+    "localizedRuleName": "Optimize images",
+    "ruleImpact": 61.361999999999995
+},
+"PrioritizeVisibleContent": {
+    "localizedRuleName": "Prioritize visible content",
+    "ruleImpact": 0
+}
+}
